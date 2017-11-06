@@ -13,7 +13,7 @@ namespace PayRollSoftware
         {
             List<Staff> myStaff = new List<Staff>();
             string[] result = new string[2];
-            string path = "staff.txt";
+            string path = Path.GetFullPath(@"..\..\..\staff.txt");
             string[] separator = { ", " };
 
             if (File.Exists(path))
