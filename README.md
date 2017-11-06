@@ -9,4 +9,6 @@ A simple console application designed to calculate staff Payroll, and generate m
   <li>Clone Repo</li>
   <li>Build and run Project</li>
 </ul>
+
+
 Follow On-Screen instructions to enter Hours worked for that Staff Member for the month in question. The project will generate PaySlips as Text files in the directory where the project is located.
